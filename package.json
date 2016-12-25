@@ -1,0 +1,28 @@
+{
+  "name": "merrychristmas2016",
+  "version": "0.0.1",
+  "description": "Chuck's ugly christmas page",
+  "main": "server.js",
+  "dependencies": {
+      "express": "*",
+      "mongodb": "*",
+      "ejs": "*"
+  },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charlesrichard/merrychristmas2016.git"
+  },
+  "author": "Chuck Svoboda <crsvoboda@gmail.com",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/charlesrichard/merrychristmas2016/issues"
+  },
+  "homepage": "https://github.com/charlesrichard/merrychristmas2016"
+}
